@@ -12,7 +12,7 @@ Os integrantes que compõe esse projeto são:
 - Murillo Eltz
 
 ## Instituição e disciplina
-O projeto faz parte da disciplina de Projeto e Desenvolvimento II - Sistemas de Informação, na Universidade Paulista (UNIP)
+O projeto faz parte da disciplina de Projeto e Desenvolvimento II - Sistemas de Informação, na Universidade Paulista (UNIP).
 
 ## Sobre o projeto
 
