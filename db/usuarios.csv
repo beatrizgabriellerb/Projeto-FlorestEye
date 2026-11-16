@@ -1,0 +1,18 @@
+ID;NOME;EMAIL;SENHA;IS_ADMIN
+1;Administrador;admin@email.com;123456;1
+2;asdsa;aaaaa@gmail.com;aaaaaa;0
+3;adasd;aaaaa2@gmail.com;aaaaaa;0
+4;dasdasd;dasdasdasd@gmail.com;$2b$12$oPFeAn6jR8wrVrq7thYOTuIoTkvxgDIxEOPpmkJ5aDrMqUb93mS2i;0
+5;aaaa;adasdasd@gmail.com;$2b$12$o3JNgr2mFSPXURwuCNR2wOCosmdesjdGNWaFI6H7A..WZH7ZLzYLG;0
+6;Adm;adm@gmail.com;$2b$12$chXy9VL/gaTQB63QZ7qzmeRibrmhRfW.v2HvgbQcp9RxL8U8UcilO;1
+7;daa;fsdaa@gmail.com;$2b$12$V8iarSPmEMIgE7lJOCvmcezl6Pvjv21cCk22gp971op.xZZ5xORGa;0
+8;daa;fsdaa3@gmail.com;$2b$12$oqnd/efpNc0oPvslRlvKL.wKhxj.w0pZsVRe7gDFp/C7Mk6Y.hAJq;0
+9;asdsdasd;dasdasd@gmail.com;$2b$12$Uj2eyL9fdOO4flFALqWDXOBXQosoiNX.qI7jbPsaVNiIjH0UmgtJe;0
+10;add;dasddasdasdsa@gmail.com;$2b$12$pQT2xW/CsIkn/BKbDpxr6uzgkZ/tPiJboBICurRS1p2U2WvxO.Dwy;1
+11;sssssdad;daas@gmail.com;$2b$12$PpdoXw/l52rezyeRuHLFe.yaxT992vOkbVibXwc8L5mGiaf/ZVpJO;1
+12;Teste 1;teste_senha111111@gmail.com;$2b$12$K4NVrQTKNA2rxzZCR4gZKeX1i3gTWP44OX/sDnv9FGjf0tZvqc9QO;0
+13;Fabio;fabio@gmail.com;$2b$12$O8cqZKX6SdyM3zVpAX9N/eDTzJbx8c0FL0wJQtYpGc02soTldM5SS;0
+14;George;george@gmail.com;$2b$12$FUBewdfhpzD/Q9sy3Hw0oubiD2hAnBGEKFrHdTtf3srPRbeyAtZZ2;1
+15;hxjcjxc;aaaaaaaaaa@gmail.com;$2b$12$ZZAnwo29UaFa7lLHBw997uLoyAWRF/3eEDyb8N3n5/4BBv/83pBpi;0
+16;Roberto;roberto@gmail.com;$2b$12$76nb.Iamzwaker3Bk9cQYe3ceWAmtMll6w.Y7RyTnwUsBreSwHe4m;0
+17;Bibs;bibs@gmail.com;$2b$12$X9VRKysqdS210oV7PP/hHuLO.hEpE7nsgi8OhrjMrUhMcXVtgys1G;0
