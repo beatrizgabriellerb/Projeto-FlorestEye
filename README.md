@@ -67,3 +67,19 @@ Criação de um Sistema de monitoramento e fiscalização de áreas ambientais, 
 
 ## Principais telas 
 Principais telas que compõe o sistema são:
+
+<p align="left">
+  <img src="fotos projeto/foto4.jpg" width="1200">
+</p>
+
+<p align="left">
+  <img src="fotos projeto/foto1.jpg" width="1200">
+</p>
+
+<p align="left">
+  <img src="fotos projeto/foto3.jpg" width="1200">
+</p>
+
+<p align="left">
+  <img src="fotos projeto/foto2.jpg" width="1200">
+</p>
